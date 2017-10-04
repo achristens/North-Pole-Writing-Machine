@@ -14,21 +14,28 @@ Below are the charges for <%= name.capitalize %>'s Christmas toy order. The cost
 <%= name.capitalize %>'s Toy Order
 =================
 
+<% if behavior == 'nice' -%>
 <% toys.each do |toy| -%>
 <% if toy == 'Kaleidoscope' -%>
-$0  <%= toy -%>
+$0  <%= toy -%> (out of stock)
 <% else -%>
 $<%= toy_value %>  <%= toy -%>
 <% end %>
 <% end -%>
-
+<% else -%>
+$<%= toy_value %> (toy undisclosed)
+<% end -%>
 ----
-$500  Subtotal
-$65   HST
+<% if behavior == 'nice' -%>
+$<%= subtotal = toy_value * toys.count %>  Subtotal
+<% else -%>
+$<%= subtotal = toy_value %>  Subtotal
+<% end -%>
+$<%= tax = (subtotal * 0.13).floor %>   HST
 ====
-$565  Total
+$<%= total = subtotal + tax %>  Total
 
-Your total comes to $565. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of <%= name.capitalize %>'s toys suddenly disappear.
+Your total comes to $<%= total %>. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of <%= name.capitalize %>'s toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

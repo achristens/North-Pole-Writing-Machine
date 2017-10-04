@@ -14,20 +14,14 @@ Below are the charges for Fred's Christmas toy order. The cost for each toy is a
 Fred's Toy Order
 =================
 
-$0  Meccano
-$0  Gumby
-$0  Soldier
-$0  Kaleidoscope
-$0  Pony
-$0  Lego
-
+$0 (toy undisclosed)
 ----
-$500  Subtotal
-$65   HST
+$0  Subtotal
+$0   HST
 ====
-$565  Total
+$0  Total
 
-Your total comes to $565. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Fred's toys suddenly disappear.
+Your total comes to $0. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Fred's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

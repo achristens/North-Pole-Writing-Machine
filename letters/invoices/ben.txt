@@ -20,14 +20,13 @@ $100  Monopoly
 $100  Bear
 $100  Bicycle
 $100  Lego
-
 ----
-$500  Subtotal
-$65   HST
+$600  Subtotal
+$78   HST
 ====
-$565  Total
+$678  Total
 
-Your total comes to $565. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Ben's toys suddenly disappear.
+Your total comes to $678. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Ben's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

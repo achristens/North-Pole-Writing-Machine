@@ -14,19 +14,20 @@ Below are the charges for Melissa's Christmas toy order. The cost for each toy i
 Melissa's Toy Order
 =================
 
-$100  Monopoly
-$100  Batman
-$0    Kaleidoscope (out of stock)
-$100  Skates
-$100  Slinky
+$100  Synthesizer
 $100  Transformers
+$100  Truck
+$100  Clue
+$100  Twister
+$100  Uno
+
 ----
 $500  Subtotal
 $65   HST
 ====
 $565  Total
 
-Your total comes to $565. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Alice's toys suddenly disappear.
+Your total comes to $565. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Melissa's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 
@@ -35,3 +36,4 @@ Sincerely,
 Guido the Elf,
 Collections Department
 Santa's Village
+

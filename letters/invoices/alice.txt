@@ -16,10 +16,11 @@ Alice's Toy Order
 
 $100  Monopoly
 $100  Batman
-$0    Kaleidoscope (out of stock)
+$0  Kaleidoscope
 $100  Skates
 $100  Slinky
 $100  Transformers
+
 ----
 $500  Subtotal
 $65   HST
@@ -35,3 +36,4 @@ Sincerely,
 Guido the Elf,
 Collections Department
 Santa's Village
+
